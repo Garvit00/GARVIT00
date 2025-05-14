@@ -39,6 +39,7 @@ Hello! I'm **GARVIT**, a passionate **Full Stack Developer**, **Tech Enthusiast*
 ![Express](https://img.shields.io/badge/-Express.js-05122A?style=flat&logo=express&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css&logoColor=06B6D4)
 ![Material-UI](https://img.shields.io/badge/-Material%20UI-05122A?style=flat&logo=mui&logoColor=0081CB)
+![ShadCn](https://img.shields.io/badge/-ShadCn-05122A?style=flat&logo=shadcn&logoColor=0081CB)
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux&logoColor=764ABC)
 
 ### Databases & Cloud
